@@ -1,0 +1,3 @@
+veracode_static_scan:
+  use_custom_workflow: typescript-build
+  artifact_file: ./typescript-artifact/typescript-artifact.zip
